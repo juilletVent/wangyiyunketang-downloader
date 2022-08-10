@@ -1,5 +1,7 @@
 ## 网易云课堂课程下载
 
+**说明：如果失效，请issue提醒我删除此项目**
+
 1. 需要提供登录的 Cookie 信息（修改 auto-download.js 第 54 行的 Cookie 信息为你自己的 Cookie 信息）
 2. 需要提供课程 ID 号，将 auto-download.js 中所有的 1209403892 替换为你要下载的课程 ID 号即可（课程 ID 号自己去接口看咯~）
 3. 需要在项目根目录放置 ffmpeg.exe，下载地址：[ffmpeg release](https://github.com/FFmpeg/FFmpeg/releases)
